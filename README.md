@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᗯᗴᒪᑕOᗰᗴ+TO+YᑌI+ᑕᕼᗩᑎ'Տ+ᖇᗴᑭO......"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᗯᗴᒪᑕOᗰᗴ+TO+BLIND RAINHANS+ᖇᗴᑭO......"
             alt="Typing SVG"
         />
          
@@ -43,7 +43,7 @@ TO ᗪᗴᑭᒪOY
 <p align="center">
 <a href="https://github.com/nexusNw"><img title="Author-" src="https://img.shields.io/badge/Author-âžªAuthor/YuiChan?color=blue"></a>
 
-<a href="#"><img title="á" src="https://img.shields.io/badge/ᑎ3᙭ᑌ5-51ᖇ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="á" src="https://img.shields.io/badge/RAIHAN-51ᖇ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   
     
